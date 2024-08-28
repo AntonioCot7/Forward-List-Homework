@@ -1,0 +1,3 @@
+C:/Users/PC Antonio/OneDrive/Documentos/Forward-List-Homework/cmake-build-debug/CMakeFiles/Forward_List_Homework.dir
+C:/Users/PC Antonio/OneDrive/Documentos/Forward-List-Homework/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC Antonio/OneDrive/Documentos/Forward-List-Homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
